@@ -1,0 +1,8 @@
+Model/EMNIST-Letters-Test/*
+Model/EMNIST-Letters-Train/*
+Model/Model-Dictionary
+__pycache__/
+*.pyc
+*.pyo
+env/
+
